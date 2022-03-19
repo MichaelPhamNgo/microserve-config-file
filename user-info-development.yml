@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: user-info
+
+server:
+  port: 0
+
+user:
+  name: MICHAEL
